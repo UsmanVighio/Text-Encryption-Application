@@ -1,0 +1,14 @@
+c:\users\hunter06\documents\visual studio 2012\Projects\Text Encruption Application\Text Encruption Application\bin\Debug\Text Encruption Application.exe.config
+c:\users\hunter06\documents\visual studio 2012\Projects\Text Encruption Application\Text Encruption Application\bin\Debug\Text Encruption Application.exe
+c:\users\hunter06\documents\visual studio 2012\Projects\Text Encruption Application\Text Encruption Application\bin\Debug\Text Encruption Application.pdb
+c:\users\hunter06\documents\visual studio 2012\Projects\Text Encruption Application\Text Encruption Application\bin\Debug\Guna.UI.dll
+c:\users\hunter06\documents\visual studio 2012\Projects\Text Encruption Application\Text Encruption Application\bin\Debug\Guna.UI2.dll
+c:\users\hunter06\documents\visual studio 2012\Projects\Text Encruption Application\Text Encruption Application\obj\Debug\Text Encruption Application.csprojResolveAssemblyReference.cache
+c:\users\hunter06\documents\visual studio 2012\Projects\Text Encruption Application\Text Encruption Application\obj\Debug\Text_Encruption_Application.Dashboard.resources
+c:\users\hunter06\documents\visual studio 2012\Projects\Text Encruption Application\Text Encruption Application\obj\Debug\Text_Encruption_Application.EcryptionScreen.resources
+c:\users\hunter06\documents\visual studio 2012\Projects\Text Encruption Application\Text Encruption Application\obj\Debug\Text_Encruption_Application.Form1.resources
+c:\users\hunter06\documents\visual studio 2012\Projects\Text Encruption Application\Text Encruption Application\obj\Debug\Text_Encruption_Application.Properties.Resources.resources
+c:\users\hunter06\documents\visual studio 2012\Projects\Text Encruption Application\Text Encruption Application\obj\Debug\Text Encruption Application.csproj.GenerateResource.Cache
+c:\users\hunter06\documents\visual studio 2012\Projects\Text Encruption Application\Text Encruption Application\obj\Debug\Text Encruption Application.exe
+c:\users\hunter06\documents\visual studio 2012\Projects\Text Encruption Application\Text Encruption Application\obj\Debug\Text Encruption Application.pdb
+C:\Users\Hunter06\Documents\Visual Studio 2012\Projects\Text Encruption Application\Text Encruption Application\obj\Debug\Text_Encruption_Application.decryptionScreen.resources
